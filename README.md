@@ -1,6 +1,6 @@
-# MVC_Model2
+## 🌱 MVC_Model2를 이용한 회원가입 기능 구현
 
-### MODEL - DAO,DTO객체
-### VIEW - JSP
-### CONTROLLER - SERVELT (java파일)
-### web.xml 파일 - SERVLET, SERVLET-MAPPING 지정
+- **CONTROLLER** - SERVELT (java파일)  
+- **VIEW** - JSP   
+- **MODEL** - DAO,DTO객체
+- web.xml - SERVLET, SERVLET-MAPPING 지정
